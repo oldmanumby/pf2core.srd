@@ -1,4 +1,4 @@
-![PathfinderLogo](pf.logo.png)
+![PathfinderLogo](PF2CoreLogo.webp)
 
 ---
 
