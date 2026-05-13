@@ -12,7 +12,7 @@ This is an adaptation of the **Pathfinder 2 Core SRD** converted to Markdown (.M
 
 **The Pathfinder 2 Core Systems Reference Document (SRD)** contains guidelines for publishing your own Pathfinder content under the [ORC License](https://paizo.com/orclicense).
 
-For additional information and other converted SRDs, please visit the [SRD Hub](https://oldmanumby.github.io/srd.hub).
+For additional information and other converted SRDs, please visit the [SRD Hub](https://srd.oldmanumby.com).
 
 <details>
  <summary>Why Markdown format?</summary>
